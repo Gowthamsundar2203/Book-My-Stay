@@ -1,6 +1,7 @@
+
 import java.util.*;
 
-public class ConcurrentBookingSimulation {
+public class DataPersistenceRecovery {
 
     static class Reservation {
         String guestName;
